@@ -1,0 +1,241 @@
+{
+  "Score" : {
+    "House" : {
+      "aryans" : "10",
+      "mughals" : "5",
+      "rajputs" : "15",
+      "spartans" : "9",
+      "vikings" : "15"
+    }
+  },
+  "gallery" : [ {
+    "name" : "Bharatham",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2Ficon.png?alt=media&token=2154d7aa-09b0-43c8-b3c1-ed2d353163c1"
+  }, {
+    "name" : "vnv",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FAryans.png?alt=media&token=7045478b-585d-43f0-91ff-c3840a0bfe62"
+  }, {
+    "name" : "vngv",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FMughals.png?alt=media&token=ec547f66-0a8c-41dd-8dbd-55d64edb1bbe"
+  }, {
+    "name" : "fjhv",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FRajputs.png?alt=media&token=22d89010-1762-4623-ac35-33cd87b4fa7a"
+  }, {
+    "name" : "jvvjv",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FSpartans.png?alt=media&token=e29be2b4-3b89-4e66-91d4-8a3c6bcf909d"
+  }, {
+    "name" : "ghh",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FVikings.png?alt=media&token=0c82c0c7-da03-4b27-bca0-365258df7e9f"
+  }, {
+    "name" : "ddfs",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FIMG_20170817_153457.jpg?alt=media&token=b45cab68-f0ec-493c-a706-67daafc1e5c5"
+  }, {
+    "name" : "dfdf",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FIMG_20170817_153458.jpg?alt=media&token=5dd3d10b-3fca-42f6-8f53-4a4c3b6a5232"
+  }, {
+    "name" : "bharatham",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FIMG_20170817_153457.jpg?alt=media&token=b45cab68-f0ec-493c-a706-67daafc1e5c5"
+  }, {
+    "name" : "sdsd",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FIMG_20170817_154945.jpg?alt=media&token=69339b89-ab8f-4352-a8c2-0ca92ab01384"
+  }, {
+    "name" : "asas",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FIMG_20170817_154947.jpg?alt=media&token=e4846e7f-d8bb-4b9f-95b0-bd87051740b8"
+  }, {
+    "name" : "sds",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FIMG_20170817_154954.jpg?alt=media&token=175af9d6-75f8-49cd-8183-681f1a59ec2f"
+  }, {
+    "name" : "dsa",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FIMG_20170817_154956.jpg?alt=media&token=998f13a2-d786-43fb-9327-f5ef420eb709"
+  } ],
+  "main" : {
+    "events" : {
+      "GRAFETTI_ART" : {
+        "first" : {
+          "-Krj4E40ESZNtnki6UNK" : {
+            "className" : "nil",
+            "eventName" : "GRAFETTI_ART",
+            "house" : "rajputs",
+            "name" : "Rajputs-A",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com"
+          }
+        },
+        "second" : {
+          "-Krj4eMKb4mV2np6dmGf" : {
+            "className" : "nil",
+            "eventName" : "GRAFETTI_ART",
+            "house" : "mughals",
+            "name" : "Mughals-A",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com"
+          }
+        },
+        "third" : {
+          "-Krj4nbJ8R-toVQ1AIVO" : {
+            "className" : "nil",
+            "eventName" : "GRAFETTI_ART",
+            "house" : "spartans",
+            "name" : "Spartans-A",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com"
+          }
+        }
+      },
+      "NADAN_PATTU" : {
+        "first" : {
+          "-KrncIRDaqh-eUFDVfug" : {
+            "className" : "nil",
+            "eventName" : "NADAN_PATTU",
+            "house" : "vikings",
+            "name" : "Vikings",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:05:33"
+          }
+        },
+        "second" : {
+          "-KrncP20yPbe5OWYgVOa" : {
+            "className" : "nil",
+            "eventName" : "NADAN_PATTU",
+            "house" : "rajputs",
+            "name" : "Rajputs",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:05:33"
+          }
+        },
+        "third" : {
+          "-KrncUnRhmrb0tflH_aA" : {
+            "className" : "nil",
+            "eventName" : "NADAN_PATTU",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:05:33"
+          }
+        }
+      },
+      "NOSTALGIA_GIRLS" : {
+        "first" : {
+          "-KrnTNNCaFBm2j6vZXUz" : {
+            "className" : "nil",
+            "eventName" : "NOSTALGIA_GIRLS",
+            "house" : "aryans",
+            "name" : "Aryans",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 9:20:57 AM"
+          }
+        },
+        "second" : {
+          "-KrnT_kloGlamYbQgARc" : {
+            "className" : "nil",
+            "eventName" : "NOSTALGIA_GIRLS",
+            "house" : "vikings",
+            "name" : "Vikings",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 9:20:57 AM"
+          }
+        },
+        "third" : {
+          "-KrnTjhf7mwIqlCinuXS" : {
+            "className" : "nil",
+            "eventName" : "NOSTALGIA_GIRLS",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 9:20:57 AM"
+          }
+        }
+      }
+    },
+    "final" : {
+      "ADAPT_TUNE" : "0",
+      "AKSHARASLOKAM" : "0",
+      "BHARATHAM_NEWSLETTER" : "0",
+      "BHARATHANATYAM" : "0",
+      "CARNATIC_CLASSICAL_MUSIC" : "0",
+      "CARTOON_DRAWING" : "0",
+      "DEBATE_ENGLISH" : "0",
+      "DEBATE_MALAYALAM" : "0",
+      "DRAMA" : "0",
+      "ELOCUTION_ENG" : "0",
+      "ELOCUTION_ENG)" : "0",
+      "ELOCUTION_MAL" : "0",
+      "ESSAY_WRITING_ENG" : "0",
+      "ESSAY_WRITING_MAL" : "0",
+      "EXTEMPORE_ENG" : "0",
+      "EXTEMPORE_MAL" : "0",
+      "FACE_PAINTING" : "0",
+      "FANCY_DRESS" : "0",
+      "FILM_REVIEW" : "0",
+      "FLOWER_ARRANGEMENT" : "0",
+      "FOLK_DANCE" : "0",
+      "GAME_OF_THRONES" : "0",
+      "GRAFETTI_ART" : "1",
+      "GROUP_DANCE_BOYS" : "0",
+      "GROUP_SONG_EASTERN" : "0",
+      "GROUP_SONG_WESTERN" : "0",
+      "HINDUSTANI_CARNATIC_MUSIC" : "0",
+      "HINDUSTANI_CLASSICAL_MUSIC" : "0",
+      "INSTRUMENTAL_MUSIC_KEYBOARD" : "0",
+      "INSTRUMENTAL_MUSIC_STRINGS" : "0",
+      "INSTRUMENT_PERCUSSION" : "0",
+      "INSTRUMENT_WIND" : "0",
+      "KADHAPRASANGAM" : "0",
+      "LIGHT_MUSIC_VOCAL_FEMALE" : "0",
+      "LIGHT_MUSIC_VOCAL_MALE" : "0",
+      "MANGLISH" : "0",
+      "MAPPILAPATT" : "0",
+      "MIME" : "0",
+      "MIMICRY" : "0",
+      "MOCK_PRESS" : "0",
+      "MOHINIYATTOM" : "0",
+      "MONOACT" : "0",
+      "MOVIE_SCENE_DUBBING" : "0",
+      "NADAN_PATTU" : "1",
+      "NOSTALGIA_GIRLS" : "1",
+      "OLD_MALAYALAM_SONG_DUET" : "0",
+      "ON_THE_SPOT_PAINTING" : "0",
+      "PAPER_COLLAGE" : "0",
+      "PENCIL_DRAWING" : "0",
+      "PHOTOGRAPHY" : "0",
+      "POETRY_WRITING_ENG" : "0",
+      "POETRY_WRITING_MAL" : "0",
+      "POSTER_DESIGNING" : "0",
+      "QUIZ" : "0",
+      "RANGOLI" : "0",
+      "RECITATION_ENG" : "0",
+      "RECITATION_MAL" : "0",
+      "SHORTFILM" : "0",
+      "SHORT_STORY" : "0",
+      "SHORT_STORY_MAL" : "0",
+      "SYNCHRONIZATION" : "0",
+      "TABLEAU" : "0",
+      "THEMATIC_DANCE_GIRLS" : "0",
+      "THIRUVATHIRA" : "0",
+      "TURNAROUND" : "0",
+      "UNPLUGGED" : "0",
+      "WESTERN_VOCAL_SOLO_MALE_FEMALE" : "0",
+      "WOLF_OF_KAKKANAD_STREET" : "0"
+    }
+  },
+  "uploads" : {
+    "-KfPPnG8wKf-W6zJHVfG" : {
+      "name" : "sddsdsd",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/rset-63188.appspot.com/o/Selfie%2FNSS+buddies2050331063?alt=media&token=0f1724e3-db0c-4584-9b98-553553f0447a"
+    },
+    "-KrWic22rvXEgSOJt4az" : {
+      "name" : "ffh",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Selfie%2Fffh55941?alt=media&token=cd06c860-8aac-4886-8e76-8e0f3724a89a"
+    }
+  },
+  "video_app" : [ null, "Abhiyanthriki 2k17 Official Promo!!!I7gPeVu3HNY" ]
+}

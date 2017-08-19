@@ -1,0 +1,1994 @@
+{
+  "Score" : {
+    "House" : {
+      "aryans" : "134",
+      "mughals" : "120",
+      "rajputs" : "160",
+      "spartans" : "140",
+      "vikings" : "98"
+    }
+  },
+  "gallery" : [ {
+    "name" : "zero",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F1.jpg?alt=media&token=9b8b54df-f68b-404f-bbe9-6ef7f65b6ee2"
+  }, {
+    "name" : "one",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F2.jpg?alt=media&token=0500a1c6-9a9d-4988-b8fd-a1fe371ccd8a"
+  }, {
+    "name" : "two",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F4.jpg?alt=media&token=b83e7579-e35a-4f80-aff0-edff5c287d8e"
+  }, {
+    "name" : "three",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F5.jpg?alt=media&token=d64290ac-aefa-4bb1-bb60-7f9aac2927ad"
+  }, {
+    "name" : "four",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F8.jpg?alt=media&token=3815b189-6096-4750-81d0-026fb46c0cb1"
+  }, {
+    "name" : "five",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F12.jpg?alt=media&token=0fe5ce2d-5a17-4637-9fc6-5fe656d15912"
+  }, {
+    "name" : "six",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2FIMG_20170817_153457.jpg?alt=media&token=b45cab68-f0ec-493c-a706-67daafc1e5c5"
+  }, {
+    "name" : "seven",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F15.jpg?alt=media&token=d452a837-086b-4e0c-9d84-e62f8c55bbba"
+  }, {
+    "name" : "eight",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F20.jpg?alt=media&token=cd5dbbaf-6c12-46dc-921b-e88e94fad18e"
+  }, {
+    "name" : "nine",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F25.jpg?alt=media&token=a81c3fad-9845-45c0-87ba-3e4324e7bbe3"
+  }, {
+    "name" : "ten",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F26.jpg?alt=media&token=726cc658-d6ef-49af-ab71-c282121df587"
+  }, {
+    "name" : "eleven",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F28.jpg?alt=media&token=45688829-e2f3-403e-9a64-de082e9dfc80"
+  }, {
+    "name" : "twelve",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F31.jpg?alt=media&token=567651e5-6791-4e39-8254-7d55a0d5ee89"
+  }, {
+    "name" : "thrit",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Gallery%2F59.jpg?alt=media&token=001c38a9-9cef-4f49-8840-a04f05b66f0b"
+  } ],
+  "main" : {
+    "events" : {
+      "ADAPT_TUNE" : {
+        "first" : {
+          "-Kro-kqLuRF4xz5Opx1w" : {
+            "className" : "S5 EC A",
+            "eventName" : "ADAPT_TUNE",
+            "house" : "rajputs",
+            "name" : "Aishwarya ",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro-t2B_Hq8_9aeqW3z" : {
+            "className" : "S7 CE",
+            "eventName" : "ADAPT_TUNE",
+            "house" : "vikings",
+            "name" : "Dhanya maria davis",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro00Lq7h9V8hV_-VBk" : {
+            "className" : "S3 EEE",
+            "eventName" : "ADAPT_TUNE",
+            "house" : "aryans",
+            "name" : "Catherine jaibes",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "AKSHARASLOKAM" : {
+        "first" : {
+          "-KroFUs7s4G1IYWWFXcF" : {
+            "className" : "S7 CS B",
+            "eventName" : "AKSHARASLOKAM",
+            "house" : "vikings",
+            "name" : "Rosini rajan",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "second" : {
+          "-KroFb32GWPj1JleLZDx" : {
+            "className" : "S3 CS A",
+            "eventName" : "AKSHARASLOKAM",
+            "house" : "rajputs",
+            "name" : "Anagha a",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "third" : {
+          "-KroFi9ze1_G-EevucAm" : {
+            "className" : "S5 EC ",
+            "eventName" : "AKSHARASLOKAM",
+            "house" : "mughals",
+            "name" : "Suvratha ",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        }
+      },
+      "BHARATHANATYAM" : {
+        "first" : {
+          "-KroZeRQ4TELSjCKoZHg" : {
+            "className" : "S5 CS G",
+            "eventName" : "BHARATHANATYAM",
+            "house" : "spartans",
+            "name" : "Swathi Sunil",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-KroZl9F-LtKsd7n11rc" : {
+            "className" : "S5 IT",
+            "eventName" : "BHARATHANATYAM",
+            "house" : "vikings",
+            "name" : "Shifara P S",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-KroZtnpCpaiI2YH4Dei" : {
+            "className" : "S3 CE",
+            "eventName" : "BHARATHANATYAM",
+            "house" : "aryans",
+            "name" : "Lakshmi Baburajan",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "DEBATE_ENGLISH" : {
+        "first" : {
+          "-KrnuzBqWHGZ-xTUvNF1" : {
+            "className" : "nil",
+            "eventName" : "DEBATE_ENGLISH",
+            "house" : "spartans",
+            "name" : "Sam,Adit",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "second" : {
+          "-Krnv6Jh57xrW5KImiT3" : {
+            "className" : "nil",
+            "eventName" : "DEBATE_ENGLISH",
+            "house" : "aryans",
+            "name" : "Midhun,Aiswarya",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "third" : {
+          "-KrnvECk-WzHeSm-TZI3" : {
+            "className" : "nil",
+            "eventName" : "DEBATE_ENGLISH",
+            "house" : "vikings",
+            "name" : "Noel,Alan",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        }
+      },
+      "DEBATE_MALAYALAM" : {
+        "first" : {
+          "-Kro9GrLJsfnue2eALNu" : {
+            "className" : "nil",
+            "eventName" : "DEBATE_MALAYALAM",
+            "house" : "mughals",
+            "name" : "Kishor,Gowripriya",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro9OFxR2yJ7d1W-Ovl" : {
+            "className" : "nil",
+            "eventName" : "DEBATE_MALAYALAM",
+            "house" : "aryans",
+            "name" : "Binoy,Indu",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro9X0FH_rBT8d5vIcC" : {
+            "className" : "nil",
+            "eventName" : "DEBATE_MALAYALAM",
+            "house" : "rajputs",
+            "name" : "Chitralekha,Deepu saji",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "DRAMA" : {
+        "first" : {
+          "-KrpFEVq8j1a6XpD1e0s" : {
+            "className" : "nil",
+            "eventName" : "DRAMA",
+            "house" : "mughals",
+            "name" : "Mughals",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 5:39:57 PM"
+          }
+        },
+        "second" : {
+          "-KrpFNXIZXdQwwQG7i3H" : {
+            "className" : "nil",
+            "eventName" : "DRAMA",
+            "house" : "aryans",
+            "name" : "AryansA",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 5:05:12 PM"
+          }
+        },
+        "third" : {
+          "-KrpFLZax96yqg6RCe22" : {
+            "className" : "nil",
+            "eventName" : "DRAMA",
+            "house" : "rajputs",
+            "name" : "Rajputs",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 5:40:22 PM"
+          }
+        }
+      },
+      "ELOCUTION_ENG" : {
+        "first" : {
+          "-Kro3JBaYJuiFoRM5aAz" : {
+            "className" : "S3 CS",
+            "eventName" : "ELOCUTION_ENG",
+            "house" : "spartans",
+            "name" : "Pooja vinod",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro3S_2ANw8ma2BLLmK" : {
+            "className" : "S1 CSE",
+            "eventName" : "ELOCUTION_ENG",
+            "house" : "aryans",
+            "name" : "Sreshtha john",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro3hrOhS4d1Ij54F2M" : {
+            "className" : "S3 CS B",
+            "eventName" : "ELOCUTION_ENG",
+            "house" : "rajputs",
+            "name" : "Linta mevin joly",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "ELOCUTION_MAL" : {
+        "first" : {
+          "-KrouPwmDagSLs4J3nP_" : {
+            "className" : "S7 EC B",
+            "eventName" : "ELOCUTION_MAL",
+            "house" : "spartans",
+            "name" : "Sujitha",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        },
+        "second" : {
+          "-Kroucc7RRMlx97wvGWx" : {
+            "className" : "S7 IT",
+            "eventName" : "ELOCUTION_MAL",
+            "house" : "rajputs",
+            "name" : "Athira M D",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        },
+        "third" : {
+          "-KrounIYl0doaVSHg8O0" : {
+            "className" : "S3 CS",
+            "eventName" : "ELOCUTION_MAL",
+            "house" : "aryans",
+            "name" : "Indhu P J",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        }
+      },
+      "ESSAY_WRITING_ENG" : {
+        "first" : {
+          "-Kro7CbsTlvOwNfDTzSz" : {
+            "className" : "S3 IT",
+            "eventName" : "ESSAY_WRITING_ENG",
+            "house" : "aryans",
+            "name" : "Kevin thomas",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro7MyTixoQbbv4vYeT" : {
+            "className" : "S3 EEE",
+            "eventName" : "ESSAY_WRITING_ENG",
+            "house" : "mughals",
+            "name" : "Fasna sawad",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro7VdVKV3rFO9DohDo" : {
+            "className" : "S7 EC B",
+            "eventName" : "ESSAY_WRITING_ENG",
+            "house" : "rajputs",
+            "name" : "Navya thankachan",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "EXTEMPORE_ENG" : {
+        "first" : {
+          "-KroDCLPNFhoYbTB1r83" : {
+            "className" : "S7 AEI",
+            "eventName" : "EXTEMPORE_ENG",
+            "house" : "spartans",
+            "name" : "Sam varghese",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "second" : {
+          "-KroEnPbU-sx0KhNE6Of" : {
+            "className" : "S7 EEE,S3 ME B",
+            "eventName" : "EXTEMPORE_ENG",
+            "house" : "TIE",
+            "name" : "Mithun (A), Cherry (M)",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "third" : {
+          "-KroEwcjg_PAmPZArAVB" : {
+            "className" : "S3 CS A",
+            "eventName" : "EXTEMPORE_ENG",
+            "house" : "vikings",
+            "name" : "Anjali",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        }
+      },
+      "EXTEMPORE_MAL" : {
+        "first" : {
+          "-Kro0zZI8icnpzl_l7XK" : {
+            "className" : "S5 CE",
+            "eventName" : "EXTEMPORE_MAL",
+            "house" : "rajputs",
+            "name" : "Anusha k v",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro185MMFeJqih2KIYu" : {
+            "className" : "S3 EC C ",
+            "eventName" : "EXTEMPORE_MAL",
+            "house" : "rajputs",
+            "name" : "Sooraj Abraham",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro1FHMO3lfYnz9EoZD" : {
+            "className" : "S7 EC B",
+            "eventName" : "EXTEMPORE_MAL",
+            "house" : "spartans",
+            "name" : "Sujith s",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "FACE_PAINTING" : {
+        "first" : {
+          "-Kro-8hlohPKd-QR4q-p" : {
+            "className" : "nil",
+            "eventName" : "FACE_PAINTING",
+            "house" : "spartans",
+            "name" : "Shreya,Nithya",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro-OotK0w0ZN0eeeUh" : {
+            "className" : "nil",
+            "eventName" : "FACE_PAINTING",
+            "house" : "rajputs",
+            "name" : "Sankarnath,Joseph Chungath",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro-VlugKu4t0UNGUpn" : {
+            "className" : "nil",
+            "eventName" : "FACE_PAINTING",
+            "house" : "mughals",
+            "name" : "Neha,Akansha",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "FANCY_DRESS" : {
+        "first" : {
+          "-Krnq6MCEXIEsFho5Fhd" : {
+            "className" : "S5 CS A",
+            "eventName" : "FANCY_DRESS",
+            "house" : "rajputs",
+            "name" : "Ajay kumar",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "second" : {
+          "-KrnqRok9qitTfFFoA89" : {
+            "className" : "S3 CE",
+            "eventName" : "FANCY_DRESS",
+            "house" : "rajputs",
+            "name" : "Aslar mohammed",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "third" : {
+          "-Krnqa83lD1CFCuVcHdZ" : {
+            "className" : "S3 CE",
+            "eventName" : "FANCY_DRESS",
+            "house" : "rajputs",
+            "name" : "Lissa mathew",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        }
+      },
+      "FILM_REVIEW" : {
+        "first" : {
+          "-KrpI7k80Y16h3QCi1XR" : {
+            "className" : "S3 IT",
+            "eventName" : "FILM_REVIEW",
+            "house" : "aryans",
+            "name" : "Kevin Thomas",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 5:39:57 PM"
+          }
+        },
+        "second" : {
+          "-KrpIpmFrm3Urd6blNnz" : {
+            "className" : "S3 CE",
+            "eventName" : "FILM_REVIEW",
+            "house" : "rajputs",
+            "name" : "Aravind K Kumar",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 5:39:57 PM"
+          }
+        },
+        "third" : {
+          "-KrpIkBIPal2BDue936C" : {
+            "className" : "S3 CS A",
+            "eventName" : "FILM_REVIEW",
+            "house" : "mughals",
+            "name" : "Angelina",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 5:40:22 PM"
+          }
+        }
+      },
+      "FOLK_DANCE" : {
+        "first" : {
+          "-KrpGpzKgQfe7hxiGSjn" : {
+            "className" : "S7 CS Alpha",
+            "eventName" : "FOLK_DANCE",
+            "house" : "aryans",
+            "name" : "Kavya Rajagopal",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 5:39:57 PM"
+          }
+        },
+        "second" : {
+          "-KrpH1Ii2FI4XD86ofCt" : {
+            "className" : "S7EEE,S5IT",
+            "eventName" : "FOLK_DANCE",
+            "house" : "TIE",
+            "name" : "AnjaliBiju(M),Shifara (V)",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 5:05:12 PM"
+          }
+        },
+        "third" : {
+          "-KrpHAUrBL0MxVqfa6cW" : {
+            "className" : "S7 EEE",
+            "eventName" : "FOLK_DANCE",
+            "house" : "rajputs",
+            "name" : "Ankitha Tomichan",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 5:40:22 PM"
+          }
+        }
+      },
+      "GRAFETTI_ART" : {
+        "first" : {
+          "-Krj4E40ESZNtnki6UNK" : {
+            "className" : "nil",
+            "eventName" : "GRAFETTI_ART",
+            "house" : "rajputs",
+            "name" : "Rajputs-A",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com"
+          }
+        },
+        "second" : {
+          "-Krj4eMKb4mV2np6dmGf" : {
+            "className" : "nil",
+            "eventName" : "GRAFETTI_ART",
+            "house" : "mughals",
+            "name" : "Mughals-A",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com"
+          }
+        },
+        "third" : {
+          "-Krj4nbJ8R-toVQ1AIVO" : {
+            "className" : "nil",
+            "eventName" : "GRAFETTI_ART",
+            "house" : "spartans",
+            "name" : "Spartans-A",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com"
+          }
+        }
+      },
+      "GROUP_SONG_WESTERN" : {
+        "first" : {
+          "-Kro_7SYzghyiING9xOk" : {
+            "className" : "nil",
+            "eventName" : "GROUP_SONG_WESTERN",
+            "house" : "vikings",
+            "name" : "Vikings",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-Kro_CVeXQP3iayo5k_1" : {
+            "className" : "nil",
+            "eventName" : "GROUP_SONG_WESTERN",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-Kro_HLVbrEtumZHf5Tm" : {
+            "className" : "nil",
+            "eventName" : "GROUP_SONG_WESTERN",
+            "house" : "mughals",
+            "name" : "Mughals",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "HINDUSTANI_CARNATIC_MUSIC" : {
+        "first" : {
+          "-KrobGCZi3_o7zR7sRg_" : {
+            "className" : "S7 EC",
+            "eventName" : "HINDUSTANI_CARNATIC_MUSIC",
+            "house" : "rajputs",
+            "name" : "Aishwarya K P",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-KrobXCTSESBVZ24-f6L" : {
+            "className" : "S5 CE, S3 EEE",
+            "eventName" : "HINDUSTANI_CARNATIC_MUSIC",
+            "house" : "TIE",
+            "name" : "Malavika (M), Yadhu Nandan (V)",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-Krobgr4159ZaW-nEXwH" : {
+            "className" : "S7 AEI",
+            "eventName" : "HINDUSTANI_CARNATIC_MUSIC",
+            "house" : "aryans",
+            "name" : "V Gayathri",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "HINDUSTANI_CLASSICAL_MUSIC" : {
+        "first" : {
+          "-Kro_m7oGDoJFjlkmsIR" : {
+            "className" : "S7 ME",
+            "eventName" : "HINDUSTANI_CLASSICAL_MUSIC",
+            "house" : "aryans",
+            "name" : "Nirmal M K",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-Kro_ueSgKtLPHTRZsjp" : {
+            "className" : "S7 EC A",
+            "eventName" : "HINDUSTANI_CLASSICAL_MUSIC",
+            "house" : "rajputs",
+            "name" : "Aishwarya K P",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-KroaDeFcqzOWM3lDESo" : {
+            "className" : "S5 CS B",
+            "eventName" : "HINDUSTANI_CLASSICAL_MUSIC",
+            "house" : "aryans",
+            "name" : "Lakshmi H",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "INSTRUMENTAL_MUSIC_KEYBOARD" : {
+        "first" : {
+          "-Krogfqk3MLQU5tm8yA5" : {
+            "className" : "S5 EC",
+            "eventName" : "INSTRUMENTAL_MUSIC_KEYBOARD",
+            "house" : "vikings",
+            "name" : "Sander",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-KrogmGxMQ7gbsAc3PsO" : {
+            "className" : "S3 CS B",
+            "eventName" : "INSTRUMENTAL_MUSIC_KEYBOARD",
+            "house" : "aryans",
+            "name" : "Fredrick",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-Krogo_gBL4H5Bdcnf_a" : {
+            "className" : "S3 CE",
+            "eventName" : "INSTRUMENTAL_MUSIC_KEYBOARD",
+            "house" : "vikings",
+            "name" : "Geo Darwin",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        }
+      },
+      "INSTRUMENTAL_MUSIC_STRINGS" : {
+        "first" : {
+          "-Kro6H5K69y1gCE8_tZa" : {
+            "className" : "S5 IT",
+            "eventName" : "INSTRUMENTAL_MUSIC_STRINGS",
+            "house" : "spartans",
+            "name" : "Karthik madhavan",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro6O6u5WWt_K_08agz" : {
+            "className" : "S5 ME",
+            "eventName" : "INSTRUMENTAL_MUSIC_STRINGS",
+            "house" : "aryans",
+            "name" : "Jeffin",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro6VvwtvABEsD55Jiw" : {
+            "className" : "S5 ME",
+            "eventName" : "INSTRUMENTAL_MUSIC_STRINGS",
+            "house" : "aryans",
+            "name" : "Erwin",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "INSTRUMENT_PERCUSSION" : {
+        "first" : {
+          "-KroXTuPozpbpDU2QoZs" : {
+            "className" : "S3 ME",
+            "eventName" : "INSTRUMENT_PERCUSSION",
+            "house" : "aryans",
+            "name" : "Rahul R Menon",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-KroXchWACz4KefbXSCv" : {
+            "className" : "S1 EC A",
+            "eventName" : "INSTRUMENT_PERCUSSION",
+            "house" : "vikings",
+            "name" : "Abishek",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-KroXlCUFmA-o0kxC0zb" : {
+            "className" : "S3 EC G",
+            "eventName" : "INSTRUMENT_PERCUSSION",
+            "house" : "rajputs",
+            "name" : "Sharath Chandran",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "INSTRUMENT_WIND" : {
+        "first" : {
+          "-KroamYrEX5E54q0LiVi" : {
+            "className" : "S5 CE",
+            "eventName" : "INSTRUMENT_WIND",
+            "house" : "aryans",
+            "name" : "Rithu B S",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-KroatFeiIKMgzmPe89N" : {
+            "className" : "S5 CS G",
+            "eventName" : "INSTRUMENT_WIND",
+            "house" : "aryans",
+            "name" : "P R Hari Kammath",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-Kroaz9GSw34czjc_N6q" : {
+            "className" : "S5 IT",
+            "eventName" : "INSTRUMENT_WIND",
+            "house" : "spartans",
+            "name" : "Karthik Madhavan",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "LIGHT_MUSIC_VOCAL_FEMALE" : {
+        "first" : {
+          "-Kro7qWW15yM0IHbjaCR" : {
+            "className" : "S5 CE",
+            "eventName" : "LIGHT_MUSIC_VOCAL_FEMALE",
+            "house" : "rajputs",
+            "name" : "Srishti dinish",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro7xcNpu39e0gi57HN" : {
+            "className" : "S5 CE",
+            "eventName" : "LIGHT_MUSIC_VOCAL_FEMALE",
+            "house" : "mughals",
+            "name" : "Malavika",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro8FSl77uFeGYRmjmS" : {
+            "className" : "S1 CE",
+            "eventName" : "LIGHT_MUSIC_VOCAL_FEMALE",
+            "house" : "mughals",
+            "name" : "Mervin jose",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "LIGHT_MUSIC_VOCAL_MALE" : {
+        "first" : {
+          "-Kro0NTlko2tN-3ja4m-" : {
+            "className" : "S7 ME",
+            "eventName" : "LIGHT_MUSIC_VOCAL_MALE",
+            "house" : "aryans",
+            "name" : "Nirmal m.k",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro0XmmVfKpV_HoQOS9" : {
+            "className" : "S7 ME A",
+            "eventName" : "LIGHT_MUSIC_VOCAL_MALE",
+            "house" : "spartans",
+            "name" : "Athul krishna",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro0do_cafRr75aQf-k" : {
+            "className" : "S5 EEE",
+            "eventName" : "LIGHT_MUSIC_VOCAL_MALE",
+            "house" : "rajputs",
+            "name" : "Asif m salil",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "MANGLISH" : {
+        "first" : {
+          "-KrnwHBMX3EG0G7q5QEl" : {
+            "className" : "S7 CE",
+            "eventName" : "MANGLISH",
+            "house" : "spartans",
+            "name" : "Aswini Suku",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "second" : {
+          "-KrnwSeY-gcEfz_ASakW" : {
+            "className" : "S5 CE",
+            "eventName" : "MANGLISH",
+            "house" : "vikings",
+            "name" : "Athira",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "third" : {
+          "-KrnwaSlIxtVqCzSli5m" : {
+            "className" : "S7 AEI",
+            "eventName" : "MANGLISH",
+            "house" : "mughals",
+            "name" : "Amal Martin",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        }
+      },
+      "MAPPILAPATT" : {
+        "first" : {
+          "-Krovt1R8kyNe3fFBfwb" : {
+            "className" : "S3 ECE",
+            "eventName" : "MAPPILAPATT",
+            "house" : "aryans",
+            "name" : "Krishna P",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        },
+        "second" : {
+          "-Krovsc8E5JSYZ9XyAom" : {
+            "className" : "S5 EEE",
+            "eventName" : "MAPPILAPATT",
+            "house" : "rajputs",
+            "name" : "Asif M Salil",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 4:07:53 PM"
+          }
+        },
+        "third" : {
+          "-Krow0qalLLfHn78DQw3" : {
+            "className" : "S5 Civil",
+            "eventName" : "MAPPILAPATT",
+            "house" : "rajputs",
+            "name" : "Srishti Dinesh",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        }
+      },
+      "MIME" : {
+        "first" : {
+          "-KrskqYIid7zCgs_EbTe" : {
+            "className" : "nil",
+            "eventName" : "MIME",
+            "house" : "mughals",
+            "name" : "Mughals",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        },
+        "second" : {
+          "-KrskvExGxZXCLOa1azi" : {
+            "className" : "nil",
+            "eventName" : "MIME",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        },
+        "third" : {
+          "-KrskzUxbl9-8zvUSMWf" : {
+            "className" : "nil",
+            "eventName" : "MIME",
+            "house" : "aryans",
+            "name" : "Aryans",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        }
+      },
+      "MIMICRY" : {
+        "first" : {
+          "-KroeC7Nx7pqW2-Wp1Mm" : {
+            "className" : "S7 CS B",
+            "eventName" : "MIMICRY",
+            "house" : "rajputs",
+            "name" : "Nigil Benno",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-KroeNipcCRDZivbFZJr" : {
+            "className" : "S5 EC A",
+            "eventName" : "MIMICRY",
+            "house" : "rajputs",
+            "name" : "Antony Stephen",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-KroeUGyWRKlSjbd1GjY" : {
+            "className" : "S7 CS B",
+            "eventName" : "MIMICRY",
+            "house" : "spartans",
+            "name" : "Phillip Joseph",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "MOCK_PRESS" : {
+        "first" : {
+          "-Krov-veGmdljpcoeMnZ" : {
+            "className" : "S7 AEI",
+            "eventName" : "MOCK_PRESS",
+            "house" : "mughals",
+            "name" : "Amal Martin",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        },
+        "second" : {
+          "-Krov8WKGUbZBlA6VduQ" : {
+            "className" : "S7 EEE",
+            "eventName" : "MOCK_PRESS",
+            "house" : "aryans",
+            "name" : "Midhun Varghese",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        },
+        "third" : {
+          "-KrovBbU3bVIsRwTQADw" : {
+            "className" : "S7 EC A",
+            "eventName" : "MOCK_PRESS",
+            "house" : "mughals",
+            "name" : "Amal David",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 4:07:53 PM"
+          }
+        }
+      },
+      "MOHINIYATTOM" : {
+        "first" : {
+          "-Kro9hGRlV_VYSowJHgj" : {
+            "className" : "S7 CSE",
+            "eventName" : "MOHINIYATTOM",
+            "house" : "aryans",
+            "name" : "Kavya rajagopal",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro9ni5m9kTcYwEfGit" : {
+            "className" : "S3 EEE",
+            "eventName" : "MOHINIYATTOM",
+            "house" : "mughals",
+            "name" : "Sandra mariya",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro9v_5W5BL7BVSBmrU" : {
+            "className" : "S3 EC B",
+            "eventName" : "MOHINIYATTOM",
+            "house" : "rajputs",
+            "name" : "Jinitha joel",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "MONOACT" : {
+        "first" : {
+          "-KroCn5pZvJ8IOKIfOnd" : {
+            "className" : "S3 CE",
+            "eventName" : "MONOACT",
+            "house" : "aryans",
+            "name" : "Lakshmi",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "second" : {
+          "-KroCuHTxq8k6kbcJfdR" : {
+            "className" : "S7 EEE",
+            "eventName" : "MONOACT",
+            "house" : "mughals",
+            "name" : "Anjali biju",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "third" : {
+          "-KroD-iA2EpTw4kAdNSg" : {
+            "className" : "S5 CS A",
+            "eventName" : "MONOACT",
+            "house" : "mughals",
+            "name" : "Boni sebi",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        }
+      },
+      "MOVIE_SCENE_DUBBING" : {
+        "first" : {
+          "-KroCU499pUwtVaeFytf" : {
+            "className" : "nil",
+            "eventName" : "MOVIE_SCENE_DUBBING",
+            "house" : "rajputs",
+            "name" : "Rajputs",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "second" : {
+          "-KroCZ0UxTYNN_r8KaOR" : {
+            "className" : "nil",
+            "eventName" : "MOVIE_SCENE_DUBBING",
+            "house" : "vikings",
+            "name" : "Vikings",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "third" : {
+          "-KroCd0Qw4OhlxbHQQKP" : {
+            "className" : "nil",
+            "eventName" : "MOVIE_SCENE_DUBBING",
+            "house" : "mughals",
+            "name" : "Mughals",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        }
+      },
+      "NADAN_PATTU" : {
+        "first" : {
+          "-KrncIRDaqh-eUFDVfug" : {
+            "className" : "nil",
+            "eventName" : "NADAN_PATTU",
+            "house" : "vikings",
+            "name" : "Vikings",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:05:33"
+          }
+        },
+        "second" : {
+          "-KrncP20yPbe5OWYgVOa" : {
+            "className" : "nil",
+            "eventName" : "NADAN_PATTU",
+            "house" : "rajputs",
+            "name" : "Rajputs",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:05:33"
+          }
+        },
+        "third" : {
+          "-KrncUnRhmrb0tflH_aA" : {
+            "className" : "nil",
+            "eventName" : "NADAN_PATTU",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:05:33"
+          }
+        }
+      },
+      "NOSTALGIA_GIRLS" : {
+        "first" : {
+          "-KrnTNNCaFBm2j6vZXUz" : {
+            "className" : "nil",
+            "eventName" : "NOSTALGIA_GIRLS",
+            "house" : "aryans",
+            "name" : "Aryans",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 9:20:57 AM"
+          }
+        },
+        "second" : {
+          "-KrnT_kloGlamYbQgARc" : {
+            "className" : "nil",
+            "eventName" : "NOSTALGIA_GIRLS",
+            "house" : "vikings",
+            "name" : "Vikings",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 9:20:57 AM"
+          }
+        },
+        "third" : {
+          "-KrnTjhf7mwIqlCinuXS" : {
+            "className" : "nil",
+            "eventName" : "NOSTALGIA_GIRLS",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 9:20:57 AM"
+          }
+        }
+      },
+      "OLD_MALAYALAM_SONG_DUET" : {
+        "first" : {
+          "-KrpGYFxn7l4Zhuoopyv" : {
+            "className" : "nil",
+            "eventName" : "OLD_MALAYALAM_SONG_DUET",
+            "house" : "mughals",
+            "name" : "Sandra, Varun",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 5:39:57 PM"
+          }
+        },
+        "second" : {
+          "-KrpGKLL1Tv-U35ozDbl" : {
+            "className" : "nil",
+            "eventName" : "OLD_MALAYALAM_SONG_DUET",
+            "house" : "spartans",
+            "name" : "Aleena,Vinayak",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 5:05:12 PM"
+          }
+        },
+        "third" : {
+          "-KrpGWtUsgYE4hpmTj0W" : {
+            "className" : "nil",
+            "eventName" : "OLD_MALAYALAM_SONG_DUET",
+            "house" : "TIE",
+            "name" : "Asif & Dinesh (R), Nirmal & Lakshmi (A)",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 5:40:22 PM"
+          }
+        }
+      },
+      "ON_THE_SPOT_PAINTING" : {
+        "first" : {
+          "-KroY2-gR9-md_jqoRrA" : {
+            "className" : "S5 ME A",
+            "eventName" : "ON_THE_SPOT_PAINTING",
+            "house" : "spartans",
+            "name" : "Jibin Jaffar",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-KroY8xV_OoNn4oj2G5Y" : {
+            "className" : "S1 EC",
+            "eventName" : "ON_THE_SPOT_PAINTING",
+            "house" : "aryans",
+            "name" : "Vidhu Krishnan",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-KroYNYsmstMRZ765_Dk" : {
+            "className" : "S1 CS A, S7 ME B",
+            "eventName" : "ON_THE_SPOT_PAINTING",
+            "house" : "TIE",
+            "name" : "Bestin (M), Sankernath (R)",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "PAPER_COLLAGE" : {
+        "first" : {
+          "-KrnjzfA8fM1MjpZDFaM" : {
+            "className" : "nil",
+            "eventName" : "PAPER_COLLAGE",
+            "house" : "aryans",
+            "name" : "Aryans",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:39:11"
+          }
+        },
+        "second" : {
+          "-Krnk5-XqSIxrB24bjDY" : {
+            "className" : "nil",
+            "eventName" : "PAPER_COLLAGE",
+            "house" : "rajputs",
+            "name" : "Rajputs",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:39:11"
+          }
+        },
+        "third" : {
+          "-KrnkBMhuD-GSZsn_eyt" : {
+            "className" : "nil",
+            "eventName" : "PAPER_COLLAGE",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 2017-8-18 10:39:11"
+          }
+        }
+      },
+      "PENCIL_DRAWING" : {
+        "first" : {
+          "-KrpFcZ5_oKzXnYsHIyJ" : {
+            "className" : "S3 CS",
+            "eventName" : "PENCIL_DRAWING",
+            "house" : "vikings",
+            "name" : "Nikhila Joshy",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 5:39:57 PM"
+          }
+        },
+        "second" : {
+          "-KrpFa2nByyDZUJJVDBw" : {
+            "className" : "S7 CSE",
+            "eventName" : "PENCIL_DRAWING",
+            "house" : "aryans",
+            "name" : "Elizabeth Benny",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "kirananto@gmail.com----Date -- 8/18/2017, 5:05:12 PM"
+          }
+        },
+        "third" : {
+          "-KrpFg7RbhKXy-a2bTWL" : {
+            "className" : "S3 ME A",
+            "eventName" : "PENCIL_DRAWING",
+            "house" : "spartans",
+            "name" : "Evlyn Viji",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 5:40:22 PM"
+          }
+        }
+      },
+      "POETRY_WRITING_ENG" : {
+        "first" : {
+          "-Kro6k-vTvMB8Z-H0Np7" : {
+            "className" : "S7 CE",
+            "eventName" : "POETRY_WRITING_ENG",
+            "house" : "rajputs",
+            "name" : "Laya wilson",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-Kro6q5sWTWut_xKh67z" : {
+            "className" : "S5 EEE",
+            "eventName" : "POETRY_WRITING_ENG",
+            "house" : "aryans",
+            "name" : "Vandana nair",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-Kro6vitD5BMkLfhKrQU" : {
+            "className" : "S5 CE",
+            "eventName" : "POETRY_WRITING_ENG",
+            "house" : "spartans",
+            "name" : "Sreelakshmi",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "POETRY_WRITING_MAL" : {
+        "first" : {
+          "-Kroem7NcidYFOqc25gz" : {
+            "className" : "-",
+            "eventName" : "POETRY_WRITING_MAL",
+            "house" : "rajputs",
+            "name" : "Chitralekha Rajeev",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-Krof-vaI4q4Y9fRcGPd" : {
+            "className" : "S7 EC B",
+            "eventName" : "POETRY_WRITING_MAL",
+            "house" : "spartans",
+            "name" : "Sujith",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-Krof32RGDhIC3I0pkmJ" : {
+            "className" : "S3 IT",
+            "eventName" : "POETRY_WRITING_MAL",
+            "house" : "aryans",
+            "name" : "Alisha Alex",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        }
+      },
+      "POSTER_DESIGNING" : {
+        "first" : {
+          "-Krnm0VWjztaIOT5fK1A" : {
+            "className" : "S3 IT",
+            "eventName" : "POSTER_DESIGNING",
+            "house" : "vikings",
+            "name" : "Jais george",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 10:47:33 AM"
+          }
+        },
+        "second" : {
+          "-KrnmEGl6HpTMm5RXCwU" : {
+            "className" : "S5 ME",
+            "eventName" : "POSTER_DESIGNING",
+            "house" : "spartans",
+            "name" : "Anashwara s nair",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 10:47:33 AM"
+          }
+        },
+        "third" : {
+          "-KrnmOonr1WLCOxK0cud" : {
+            "className" : "S5 CS B",
+            "eventName" : "POSTER_DESIGNING",
+            "house" : "mughals",
+            "name" : "Maria johnson",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 10:47:33 AM"
+          }
+        }
+      },
+      "QUIZ" : {
+        "first" : {
+          "-KrovUKwPWwnRz7Wzndp" : {
+            "className" : "nil",
+            "eventName" : "QUIZ",
+            "house" : "vikings",
+            "name" : "Allen Sam, Razal",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        },
+        "second" : {
+          "-KrovVZxrMCFsZTCMY1S" : {
+            "className" : "nil",
+            "eventName" : "QUIZ",
+            "house" : "rajputs",
+            "name" : "joel,Shoalia",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 4:07:53 PM"
+          }
+        },
+        "third" : {
+          "-Krovcdn9TW28mkQRw-_" : {
+            "className" : "nil",
+            "eventName" : "QUIZ",
+            "house" : "mughals",
+            "name" : "Bestina, Nithin",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 4:03:57 PM"
+          }
+        }
+      },
+      "RANGOLI" : {
+        "first" : {
+          "-KrohUStSEH692MjLAAe" : {
+            "className" : "nil",
+            "eventName" : "RANGOLI",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        },
+        "second" : {
+          "-KrohaZ3ombHUhDEMxuK" : {
+            "className" : "nil",
+            "eventName" : "RANGOLI",
+            "house" : "rajputs",
+            "name" : "Rajputs",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        },
+        "third" : {
+          "-KrohiYZ-_Ee8qMWEx9E" : {
+            "className" : "nil",
+            "eventName" : "RANGOLI",
+            "house" : "mughals",
+            "name" : "Mughals",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        }
+      },
+      "RECITATION_ENG" : {
+        "first" : {
+          "-KroFu70mwNGRWZTWN30" : {
+            "className" : "S7 EC A",
+            "eventName" : "RECITATION_ENG",
+            "house" : "rajputs",
+            "name" : "Jeswin sibi",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "second" : {
+          "-KroG2j-h19GwIoahSvh" : {
+            "className" : "S3 CS",
+            "eventName" : "RECITATION_ENG",
+            "house" : "spartans",
+            "name" : "Pooja vinod",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        },
+        "third" : {
+          "-KroGDQl0DLzt9mdGp-q" : {
+            "className" : "S3 IT",
+            "eventName" : "RECITATION_ENG",
+            "house" : "aryans",
+            "name" : "Kevin thomas",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 12:48:40 PM"
+          }
+        }
+      },
+      "RECITATION_MAL" : {
+        "first" : {
+          "-KroZ6fX1bv-ODCgTrGQ" : {
+            "className" : "S3 CS B",
+            "eventName" : "RECITATION_MAL",
+            "house" : "vikings",
+            "name" : "Liya Theresa",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "second" : {
+          "-KroZFxTYMvrKLyPPncZ" : {
+            "className" : "S3 CS G",
+            "eventName" : "RECITATION_MAL",
+            "house" : "spartans",
+            "name" : "Pooja Vinod",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-KroZSuFHYjf0l1DbWWn" : {
+            "className" : "S5 EEE",
+            "eventName" : "RECITATION_MAL",
+            "house" : "mughals",
+            "name" : "Ravi Menon",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        }
+      },
+      "SHORT_STORY" : {
+        "first" : {
+          "-KrsnAj2UvuAFoVHRlNY" : {
+            "className" : "S7 ME",
+            "eventName" : "SHORT_STORY",
+            "house" : "rajputs",
+            "name" : "Sirin Kurian",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        },
+        "second" : {
+          "-KrsnKvo8mwPAEOPon46" : {
+            "className" : "S3 EEE",
+            "eventName" : "SHORT_STORY",
+            "house" : "mughals",
+            "name" : "Boney Xavier",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        },
+        "third" : {
+          "-KrsnSpRwBFqY9iZOwGz" : {
+            "className" : "S1 CS A",
+            "eventName" : "SHORT_STORY",
+            "house" : "aryans",
+            "name" : "Anna R",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        }
+      },
+      "SHORT_STORY_MAL" : {
+        "first" : {
+          "-KrofEu5kF7VB-cqtrak" : {
+            "className" : "-",
+            "eventName" : "SHORT_STORY_MAL",
+            "house" : "spartans",
+            "name" : "Amala MJ",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        },
+        "second" : {
+          "-KrofF3tTRYvf--Qlsqn" : {
+            "className" : "-",
+            "eventName" : "SHORT_STORY_MAL",
+            "house" : "rajputs",
+            "name" : "Anagha",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-KrofNQ2UtRvO5ar2I78" : {
+            "className" : "-",
+            "eventName" : "SHORT_STORY_MAL",
+            "house" : "spartans",
+            "name" : "Ashwini Suku",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        }
+      },
+      "SYNCHRONIZATION" : {
+        "first" : {
+          "-KroA6W6iQRvJVXRO5xp" : {
+            "className" : "nil",
+            "eventName" : "SYNCHRONIZATION",
+            "house" : "mughals",
+            "name" : "Anju,parvathy",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "second" : {
+          "-KroAHX5UvxZI-lsOKYP" : {
+            "className" : "nil",
+            "eventName" : "SYNCHRONIZATION",
+            "house" : "rajputs",
+            "name" : "Aswin,Sidharth ",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        },
+        "third" : {
+          "-KroAS90ykL7R9sf33CX" : {
+            "className" : "nil",
+            "eventName" : "SYNCHRONIZATION",
+            "house" : "aryans",
+            "name" : "Jubitta ,Mary joshy",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:49:42 AM"
+          }
+        }
+      },
+      "TABLEAU" : {
+        "first" : {
+          "-KrsmGOmHd4Jb53wPACg" : {
+            "className" : "nil",
+            "eventName" : "TABLEAU",
+            "house" : "spartans",
+            "name" : "Spartans",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        },
+        "second" : {
+          "-KrsmMQq6Nr10gHrtV9d" : {
+            "className" : "nil",
+            "eventName" : "TABLEAU",
+            "house" : "rajputs",
+            "name" : "Rajputs",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        },
+        "third" : {
+          "-KrsmQceazAQK8bPVquW" : {
+            "className" : "nil",
+            "eventName" : "TABLEAU",
+            "house" : "aryans",
+            "name" : "Aryans",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/19/2017, 10:00:17 AM"
+          }
+        }
+      },
+      "THIRUVATHIRA" : {
+        "first" : {
+          "-KrnyZ0SCBzgetb2kAkg" : {
+            "className" : "nil",
+            "eventName" : "THIRUVATHIRA",
+            "house" : "vikings",
+            "name" : "Vikings",
+            "position" : "first",
+            "score" : "10",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "second" : {
+          "-Krnyd6MLc9rcEx9ITyf" : {
+            "className" : "nil",
+            "eventName" : "THIRUVATHIRA",
+            "house" : "rajputs",
+            "name" : "Rajputs",
+            "position" : "second",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "third" : {
+          "-KrnyjocSqg0Q-q9gUk9" : {
+            "className" : "nil",
+            "eventName" : "THIRUVATHIRA",
+            "house" : "mughals",
+            "name" : "Mughals",
+            "position" : "third",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        }
+      },
+      "TURNAROUND" : {
+        "first" : {
+          "-KrofVmv76QfkG0_YHcO" : {
+            "className" : "S7 AEI",
+            "eventName" : "TURNAROUND",
+            "house" : "spartans",
+            "name" : "Sam Varghese",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        },
+        "second" : {
+          "-KrofWqnsXc6VGSECeYr" : {
+            "className" : "S5 ME",
+            "eventName" : "TURNAROUND",
+            "house" : "spartans",
+            "name" : "Jerald",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 2:19:01 PM"
+          }
+        },
+        "third" : {
+          "-KrofdnidGMQiCF7C5p4" : {
+            "className" : "S5 ME Alpha",
+            "eventName" : "TURNAROUND",
+            "house" : "spartans",
+            "name" : "Fuad",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "abhinavthomas@gmail.com----Date -- 8/18/2017, 2:57:21 PM"
+          }
+        }
+      },
+      "WESTERN_VOCAL_SOLO_MALE_FEMALE" : {
+        "first" : {
+          "-Krnxw0PRwYz9fcXlUgZ" : {
+            "className" : "S5EC A",
+            "eventName" : "WESTERN_VOCAL_SOLO_MALE_FEMALE",
+            "house" : "rajputs",
+            "name" : "Cassandra d souza",
+            "position" : "first",
+            "score" : "5",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "second" : {
+          "-Krny5csAaqHUZLfUJbd" : {
+            "className" : "S7 EEE",
+            "eventName" : "WESTERN_VOCAL_SOLO_MALE_FEMALE",
+            "house" : "spartans",
+            "name" : "Sarah mary thomas",
+            "position" : "second",
+            "score" : "3",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        },
+        "third" : {
+          "-KrnyD5EQKd9Sy4QQzxY" : {
+            "className" : "S7 CS A",
+            "eventName" : "WESTERN_VOCAL_SOLO_MALE_FEMALE",
+            "house" : "mughals",
+            "name" : "Joel Manoj",
+            "position" : "third",
+            "score" : "1",
+            "uploader" : "aleena31.chirayath@gmail.com----Date -- 8/18/2017, 11:05:01 AM"
+          }
+        }
+      }
+    },
+    "final" : {
+      "ADAPT_TUNE" : "1",
+      "AKSHARASLOKAM" : "1",
+      "BHARATHAM_NEWSLETTER" : "0",
+      "BHARATHANATYAM" : "1",
+      "CARNATIC_CLASSICAL_MUSIC" : "0",
+      "CARTOON_DRAWING" : "0",
+      "DEBATE_ENGLISH" : "1",
+      "DEBATE_MALAYALAM" : "1",
+      "DRAMA" : "1",
+      "ELOCUTION_ENG" : "1",
+      "ELOCUTION_ENG)" : "1",
+      "ELOCUTION_MAL" : "1",
+      "ESSAY_WRITING_ENG" : "1",
+      "ESSAY_WRITING_MAL" : "0",
+      "EXTEMPORE_ENG" : "1",
+      "EXTEMPORE_MAL" : "1",
+      "FACE_PAINTING" : "1",
+      "FANCY_DRESS" : "1",
+      "FILM_REVIEW" : "1",
+      "FLOWER_ARRANGEMENT" : "0",
+      "FOLK_DANCE" : "0",
+      "GAME_OF_THRONES" : "0",
+      "GRAFETTI_ART" : "1",
+      "GROUP_DANCE_BOYS" : "0",
+      "GROUP_SONG_EASTERN" : "0",
+      "GROUP_SONG_WESTERN" : "1",
+      "HINDUSTANI_CARNATIC_MUSIC" : "1",
+      "HINDUSTANI_CLASSICAL_MUSIC" : "1",
+      "INSTRUMENTAL_MUSIC_KEYBOARD" : "1",
+      "INSTRUMENTAL_MUSIC_STRINGS" : "1",
+      "INSTRUMENT_PERCUSSION" : "1",
+      "INSTRUMENT_WIND" : "1",
+      "KADHAPRASANGAM" : "0",
+      "LIGHT_MUSIC_VOCAL_FEMALE" : "1",
+      "LIGHT_MUSIC_VOCAL_MALE" : "1",
+      "MANGLISH" : "1",
+      "MAPPILAPATT" : "1",
+      "MIME" : "1",
+      "MIMICRY" : "1",
+      "MOCK_PRESS" : "1",
+      "MOHINIYATTOM" : "1",
+      "MONOACT" : "1",
+      "MOVIE_SCENE_DUBBING" : "1",
+      "NADAN_PATTU" : "1",
+      "NOSTALGIA_GIRLS" : "1",
+      "OLD_MALAYALAM_SONG_DUET" : "0",
+      "ON_THE_SPOT_PAINTING" : "1",
+      "PAPER_COLLAGE" : "1",
+      "PENCIL_DRAWING" : "1",
+      "PHOTOGRAPHY" : "0",
+      "POETRY_WRITING_ENG" : "1",
+      "POETRY_WRITING_MAL" : "1",
+      "POSTER_DESIGNING" : "1",
+      "QUIZ" : "1",
+      "RANGOLI" : "1",
+      "RECITATION_ENG" : "1",
+      "RECITATION_MAL" : "1",
+      "SHORTFILM" : "0",
+      "SHORT_STORY" : "1",
+      "SHORT_STORY_MAL" : "1",
+      "SYNCHRONIZATION" : "1",
+      "TABLEAU" : "1",
+      "THEMATIC_DANCE_GIRLS" : "0",
+      "THIRUVATHIRA" : "1",
+      "TURNAROUND" : "1",
+      "UNPLUGGED" : "0",
+      "WESTERN_VOCAL_SOLO_MALE_FEMALE" : "1",
+      "WOLF_OF_KAKKANAD_STREET" : "0"
+    }
+  },
+  "uploads" : {
+    "-KfPPnG8wKf-W6zJHVfG" : {
+      "name" : "sddsdsd",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/rset-63188.appspot.com/o/Selfie%2FNSS+buddies2050331063?alt=media&token=0f1724e3-db0c-4584-9b98-553553f0447a"
+    },
+    "-KrWic22rvXEgSOJt4az" : {
+      "name" : "ffh",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/bharatham-2k17.appspot.com/o/Selfie%2Fffh55941?alt=media&token=cd06c860-8aac-4886-8e76-8e0f3724a89a"
+    }
+  },
+  "video_app" : [ null, "Abhiyanthriki 2k17 Official Promo!!!I7gPeVu3HNY" ]
+}
